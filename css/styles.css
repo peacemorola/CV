@@ -1,0 +1,21 @@
+body {
+  background-color: #E7F6F2;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  width: 10%;
+  border-width: 5px;
+}
+h1{color: #293462;}
+h2{color: #66bfbf;}
+h3{color: #66bfbf;}
+/*********************CLASS SELECTORS***********************/
+.hover:hover{
+  color: red;
+}
+.hove:hover{
+  color: red;
+}
